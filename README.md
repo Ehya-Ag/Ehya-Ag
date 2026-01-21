@@ -64,11 +64,8 @@
   <a href="mailto:ehyaagmohamed23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ehya-ag-mohamed-0b1a1a1a1">
+  <a href="https://www.linkedin.com/in/ehya-ag-mohamed-a51570195/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ehya-Ag&color=blue&style=flat-square&label=Vues+du+profil" />
-</p>
